@@ -90,7 +90,7 @@ p {
     max-width: 960px;
 }
 
-/* Grid for two columns in desktop-version and single col in mobile devices */
+
 .grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
